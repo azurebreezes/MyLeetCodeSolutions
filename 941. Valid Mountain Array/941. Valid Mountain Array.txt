@@ -1,0 +1,4 @@
+One pass
+Check up to the hill then down
+Time Complexity: O(n)
+Space Complexity: O(1)
