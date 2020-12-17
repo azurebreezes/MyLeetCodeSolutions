@@ -1,7 +1,7 @@
 #Create a folder with a txt file and a py file
 
 import os
-folder="977. Squares of a Sorted Array"
+folder="098. Validate Binary Search Tree"
 if not os.path.exists(folder):
     os.makedirs(folder)
     write_path=f'{folder}/{folder}.txt'
