@@ -1,7 +1,7 @@
-#Create a folder with a txt file and a py file
+#Create a folder with a txt file and a py file in it
 
 import os
-folder="110. Balanced Binary Tree"
+folder="1602. Find Nearest Right Node in Binary Tree"
 if not os.path.exists(folder):
     os.makedirs(folder)
     write_path=f'{folder}/{folder}.txt'
