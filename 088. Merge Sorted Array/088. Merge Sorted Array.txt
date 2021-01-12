@@ -1,1 +1,3 @@
-Auto Generate
+Three pointers
+Time complexity : O(n+m) iterate nums1 once 
+Space complexity : O(1)
