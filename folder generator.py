@@ -1,7 +1,7 @@
 #Create a folder with a txt file and a py file in it
 
 import os
-folder="1662. Check If Two String Arrays are Equivalent"
+folder="088. Merge Sorted Array"
 if not os.path.exists(folder):
     os.makedirs(folder)
     write_path=f'{folder}/{folder}.txt'
