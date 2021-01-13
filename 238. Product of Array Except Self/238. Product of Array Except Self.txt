@@ -1,0 +1,5 @@
+Time O(N) iterate numbers to construct the L and R list
+Space O(N) store three lists: L, R, ans
+
+Better solution: use ans as L 
+

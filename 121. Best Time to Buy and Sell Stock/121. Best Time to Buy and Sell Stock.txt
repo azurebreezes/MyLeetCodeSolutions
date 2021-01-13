@@ -1,0 +1,2 @@
+Time O(N), one pass
+Space O(1), two variables: ans and buy
