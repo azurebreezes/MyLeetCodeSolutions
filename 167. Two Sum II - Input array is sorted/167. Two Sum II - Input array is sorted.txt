@@ -1,0 +1,7 @@
+Two pointers
+Time: O(N)
+Space: O(1)
+
+Initialize two indexes pointing to the first and last element respectively.
+Compare the sum of these two elements with target to decrease "high" or 
+increase "low".
