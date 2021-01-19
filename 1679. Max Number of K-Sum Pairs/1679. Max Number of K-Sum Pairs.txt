@@ -1,1 +1,4 @@
-Empty
+Time: O(N log N)
+Space: O(1)
+
+Time can be reduced to O(N) at a cost of space increase to O(N)
