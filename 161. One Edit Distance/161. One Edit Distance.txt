@@ -1,0 +1,2 @@
+Time: O(N)
+Space: O(1) using pointer instead of creating new string
