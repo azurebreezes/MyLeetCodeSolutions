@@ -1,7 +1,7 @@
 #Create a folder with a txt file and a py file in it
 
 import os
-folder="1437. Check If All 1's Are at Least Length K Places Away"
+folder="953. Verifying an Alien Dictionary"
 if not os.path.exists(folder):
     os.makedirs(folder)
     write_path=f'{folder}/{folder}.txt'
