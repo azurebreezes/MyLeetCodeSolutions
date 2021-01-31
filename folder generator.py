@@ -1,7 +1,7 @@
 #Create a folder with a txt file and a py file in it
 
 import os
-folder="1480. Running Sum of 1d Array"
+folder="031. Next Permutation"
 if not os.path.exists(folder):
     os.makedirs(folder)
     write_path=f'{folder}/{folder}.txt'
