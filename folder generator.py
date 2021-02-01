@@ -1,7 +1,7 @@
 #Create a folder with a txt file and a py file in it
 
 import os
-folder="031. Next Permutation"
+folder="191. Number of 1 Bits"
 if not os.path.exists(folder):
     os.makedirs(folder)
     write_path=f'{folder}/{folder}.txt'
