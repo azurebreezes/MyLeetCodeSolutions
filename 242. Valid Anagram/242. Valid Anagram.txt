@@ -1,2 +1,4 @@
 Time: O(N)
 Space: O(N) for the mapping
+
+Can be done in O(1) Space
