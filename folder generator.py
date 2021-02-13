@@ -1,7 +1,7 @@
 #Create a folder with a txt file and a py file in it
 
 import os
-folder="Why is this not workin"
+folder="Why is this not working"
 if not os.path.exists(folder):
     os.makedirs(folder)
     write_path=f'{folder}/{folder}.txt'
